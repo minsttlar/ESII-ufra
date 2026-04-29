@@ -1,6 +1,7 @@
 # Resenha Aula 3 — Modelos UML e Design de Componentes
 
 **Aluno:** Karla Geovanna Almeida de Sousa
+
 **Data:** 29/04/2026
 
 ---
